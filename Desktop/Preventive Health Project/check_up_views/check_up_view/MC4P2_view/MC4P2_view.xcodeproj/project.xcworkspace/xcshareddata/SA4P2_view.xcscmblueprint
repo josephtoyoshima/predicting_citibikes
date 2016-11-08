@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C85F04EF8C86B3FFD571DA176292A1AADFC6F28A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "346F4F8558A504BEF6BC361D4DB7E75C49444E7E" : 9223372036854775807,
+    "C85F04EF8C86B3FFD571DA176292A1AADFC6F28A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6CA6AA21-7B94-43D2-9F1C-DFE33F9D301D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "346F4F8558A504BEF6BC361D4DB7E75C49444E7E" : "",
+    "C85F04EF8C86B3FFD571DA176292A1AADFC6F28A" : "MC4P2_view\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SA4P2_view",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SA4P2_view.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/jtoyo\/checkupviewmaster.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "346F4F8558A504BEF6BC361D4DB7E75C49444E7E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/jtoyo\/checkupview.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C85F04EF8C86B3FFD571DA176292A1AADFC6F28A"
+    }
+  ]
+}

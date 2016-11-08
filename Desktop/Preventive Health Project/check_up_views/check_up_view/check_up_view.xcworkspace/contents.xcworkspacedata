@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "YNP_view">
+      <FileRef
+         location = "absolute:/Users/JToyoshima/Desktop/Preventive Health Project/check_up_views/check_up_view/YNP_view/YNP_view.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:YNP_view/Preventive Health App"
+         name = "Preventive Health App">
+         <FileRef
+            location = "group:YNP_view/Preventive Health App/AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:YNP_view/Preventive Health App/ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:YNP_view/Preventive Health App"
+            name = "Main.storyboard">
+            <FileRef
+               location = "group:YNP_view/Preventive Health App/Base.lproj/Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:YNP_view/Preventive Health App/Assets.xcassets">
+         </FileRef>
+         <Group
+            location = "group:YNP_view/Preventive Health App"
+            name = "LaunchScreen.storyboard">
+            <FileRef
+               location = "group:YNP_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:YNP_view/Preventive Health App/Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:YNP_view/Preventive Health App/AppDelegate.swift">
+      </FileRef>
+      <FileRef
+         location = "group:YNP_view/Preventive Health App/ViewController.swift">
+      </FileRef>
+      <Group
+         location = "group:YNP_view/Preventive Health App"
+         name = "Main.storyboard">
+         <FileRef
+            location = "group:YNP_view/Preventive Health App/Base.lproj/Main.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:YNP_view/Preventive Health App/Assets.xcassets">
+      </FileRef>
+      <Group
+         location = "group:YNP_view/Preventive Health App"
+         name = "LaunchScreen.storyboard">
+         <FileRef
+            location = "group:YNP_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:YNP_view/Preventive Health App/Info.plist">
+      </FileRef>
+      <Group
+         location = "group:YNP_view/Preventive Health AppTests"
+         name = "Preventive Health AppTests">
+         <FileRef
+            location = "group:YNP_view/Preventive Health AppTests/Preventive_Health_AppTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:YNP_view/Preventive Health AppTests/Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:YNP_view"
+         name = "Products">
+         <FileRef
+            location = "build:YNP_view.app"
+            assignedFileDataType = "com.apple.application-bundle">
+         </FileRef>
+         <FileRef
+            location = "build:YNP_viewTests.xctest"
+            assignedFileDataType = "com.apple.xcode.cfbundle">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "YN_view">
+      <FileRef
+         location = "absolute:/Users/JToyoshima/Desktop/Preventive Health Project/check_up_views/check_up_view/YN_view/YN_view.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:YN_view/Preventive Health App"
+         name = "Preventive Health App">
+         <FileRef
+            location = "group:YN_view/Preventive Health App/AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:YN_view/Preventive Health App/ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:YN_view/Preventive Health App"
+            name = "Main.storyboard">
+            <FileRef
+               location = "group:YN_view/Preventive Health App/Base.lproj/Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:YN_view/Preventive Health App/Assets.xcassets">
+         </FileRef>
+         <Group
+            location = "group:YN_view/Preventive Health App"
+            name = "LaunchScreen.storyboard">
+            <FileRef
+               location = "group:YN_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:YN_view/Preventive Health App/Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:YN_view/Preventive Health App/AppDelegate.swift">
+      </FileRef>
+      <FileRef
+         location = "group:YN_view/Preventive Health App/ViewController.swift">
+      </FileRef>
+      <Group
+         location = "group:YN_view/Preventive Health App"
+         name = "Main.storyboard">
+         <FileRef
+            location = "group:YN_view/Preventive Health App/Base.lproj/Main.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:YN_view/Preventive Health App/Assets.xcassets">
+      </FileRef>
+      <Group
+         location = "group:YN_view/Preventive Health App"
+         name = "LaunchScreen.storyboard">
+         <FileRef
+            location = "group:YN_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:YN_view/Preventive Health App/Info.plist">
+      </FileRef>
+      <Group
+         location = "group:YN_view/Preventive Health AppTests"
+         name = "Preventive Health AppTests">
+         <FileRef
+            location = "group:YN_view/Preventive Health AppTests/Preventive_Health_AppTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:YN_view/Preventive Health AppTests/Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:YN_view"
+         name = "Products">
+         <FileRef
+            location = "build:YN_view.app"
+            assignedFileDataType = "com.apple.application-bundle">
+         </FileRef>
+         <FileRef
+            location = "build:YN_viewTests.xctest"
+            assignedFileDataType = "com.apple.xcode.cfbundle">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "SA6_view">
+      <FileRef
+         location = "absolute:/Users/JToyoshima/Desktop/Preventive Health Project/check_up_views/check_up_view/SA6_view/SA6_view.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:SA6_view/Preventive Health App"
+         name = "Preventive Health App">
+         <FileRef
+            location = "group:SA6_view/Preventive Health App/AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:SA6_view/Preventive Health App/ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:SA6_view/Preventive Health App"
+            name = "Main.storyboard">
+            <FileRef
+               location = "group:SA6_view/Preventive Health App/Base.lproj/Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:SA6_view/Preventive Health App/Assets.xcassets">
+         </FileRef>
+         <Group
+            location = "group:SA6_view/Preventive Health App"
+            name = "LaunchScreen.storyboard">
+            <FileRef
+               location = "group:SA6_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:SA6_view/Preventive Health App/Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SA6_view/Preventive Health App/AppDelegate.swift">
+      </FileRef>
+      <FileRef
+         location = "group:SA6_view/Preventive Health App/ViewController.swift">
+      </FileRef>
+      <Group
+         location = "group:SA6_view/Preventive Health App"
+         name = "Main.storyboard">
+         <FileRef
+            location = "group:SA6_view/Preventive Health App/Base.lproj/Main.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SA6_view/Preventive Health App/Assets.xcassets">
+      </FileRef>
+      <Group
+         location = "group:SA6_view/Preventive Health App"
+         name = "LaunchScreen.storyboard">
+         <FileRef
+            location = "group:SA6_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SA6_view/Preventive Health App/Info.plist">
+      </FileRef>
+      <Group
+         location = "group:SA6_view/Preventive Health AppTests"
+         name = "Preventive Health AppTests">
+         <FileRef
+            location = "group:SA6_view/Preventive Health AppTests/Preventive_Health_AppTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:SA6_view/Preventive Health AppTests/Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:SA6_view"
+         name = "Products">
+         <FileRef
+            location = "build:SA6_view.app"
+            assignedFileDataType = "com.apple.application-bundle">
+         </FileRef>
+         <FileRef
+            location = "build:SA6_viewTests.xctest"
+            assignedFileDataType = "com.apple.xcode.cfbundle">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "SA4P2_view">
+      <FileRef
+         location = "absolute:/Users/JToyoshima/Desktop/Preventive Health Project/check_up_views/check_up_view/SA4P2_view/SA4P2_view.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:SA4P2_view/Preventive Health App"
+         name = "Preventive Health App">
+         <FileRef
+            location = "group:SA4P2_view/Preventive Health App/AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:SA4P2_view/Preventive Health App/ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:SA4P2_view/Preventive Health App"
+            name = "Main.storyboard">
+            <FileRef
+               location = "group:SA4P2_view/Preventive Health App/Base.lproj/Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:SA4P2_view/Preventive Health App/Assets.xcassets">
+         </FileRef>
+         <Group
+            location = "group:SA4P2_view/Preventive Health App"
+            name = "LaunchScreen.storyboard">
+            <FileRef
+               location = "group:SA4P2_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:SA4P2_view/Preventive Health App/Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SA4P2_view/Preventive Health App/AppDelegate.swift">
+      </FileRef>
+      <FileRef
+         location = "group:SA4P2_view/Preventive Health App/ViewController.swift">
+      </FileRef>
+      <Group
+         location = "group:SA4P2_view/Preventive Health App"
+         name = "Main.storyboard">
+         <FileRef
+            location = "group:SA4P2_view/Preventive Health App/Base.lproj/Main.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SA4P2_view/Preventive Health App/Assets.xcassets">
+      </FileRef>
+      <Group
+         location = "group:SA4P2_view/Preventive Health App"
+         name = "LaunchScreen.storyboard">
+         <FileRef
+            location = "group:SA4P2_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SA4P2_view/Preventive Health App/Info.plist">
+      </FileRef>
+      <Group
+         location = "group:SA4P2_view/Preventive Health AppTests"
+         name = "Preventive Health AppTests">
+         <FileRef
+            location = "group:SA4P2_view/Preventive Health AppTests/Preventive_Health_AppTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:SA4P2_view/Preventive Health AppTests/Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:SA4P2_view"
+         name = "Products">
+         <FileRef
+            location = "build:SA4P2_view.app"
+            assignedFileDataType = "com.apple.application-bundle">
+         </FileRef>
+         <FileRef
+            location = "build:SA4P2_viewTests.xctest"
+            assignedFileDataType = "com.apple.xcode.cfbundle">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "SA4_view">
+      <FileRef
+         location = "absolute:/Users/JToyoshima/Desktop/Preventive Health Project/check_up_views/check_up_view/SA4_view/SA4_view.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:SA4_view/Preventive Health App"
+         name = "Preventive Health App">
+         <FileRef
+            location = "group:SA4_view/Preventive Health App/AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:SA4_view/Preventive Health App/ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:SA4_view/Preventive Health App"
+            name = "Main.storyboard">
+            <FileRef
+               location = "group:SA4_view/Preventive Health App/Base.lproj/Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:SA4_view/Preventive Health App/Assets.xcassets">
+         </FileRef>
+         <Group
+            location = "group:SA4_view/Preventive Health App"
+            name = "LaunchScreen.storyboard">
+            <FileRef
+               location = "group:SA4_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:SA4_view/Preventive Health App/Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SA4_view/Preventive Health App/AppDelegate.swift">
+      </FileRef>
+      <FileRef
+         location = "group:SA4_view/Preventive Health App/ViewController.swift">
+      </FileRef>
+      <Group
+         location = "group:SA4_view/Preventive Health App"
+         name = "Main.storyboard">
+         <FileRef
+            location = "group:SA4_view/Preventive Health App/Base.lproj/Main.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SA4_view/Preventive Health App/Assets.xcassets">
+      </FileRef>
+      <Group
+         location = "group:SA4_view/Preventive Health App"
+         name = "LaunchScreen.storyboard">
+         <FileRef
+            location = "group:SA4_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SA4_view/Preventive Health App/Info.plist">
+      </FileRef>
+      <Group
+         location = "group:SA4_view/Preventive Health AppTests"
+         name = "Preventive Health AppTests">
+         <FileRef
+            location = "group:SA4_view/Preventive Health AppTests/Preventive_Health_AppTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:SA4_view/Preventive Health AppTests/Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:SA4_view"
+         name = "Products">
+         <FileRef
+            location = "build:SA4_view.app"
+            assignedFileDataType = "com.apple.application-bundle">
+         </FileRef>
+         <FileRef
+            location = "build:SA4_viewTests.xctest"
+            assignedFileDataType = "com.apple.xcode.cfbundle">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "MC6_view">
+      <FileRef
+         location = "absolute:/Users/JToyoshima/Desktop/Preventive Health Project/check_up_views/check_up_view/MC6_view/MC6_view.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:MC6_view/Preventive Health App"
+         name = "Preventive Health App">
+         <FileRef
+            location = "group:MC6_view/Preventive Health App/AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:MC6_view/Preventive Health App/ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:MC6_view/Preventive Health App"
+            name = "Main.storyboard">
+            <FileRef
+               location = "group:MC6_view/Preventive Health App/Base.lproj/Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:MC6_view/Preventive Health App/Assets.xcassets">
+         </FileRef>
+         <Group
+            location = "group:MC6_view/Preventive Health App"
+            name = "LaunchScreen.storyboard">
+            <FileRef
+               location = "group:MC6_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:MC6_view/Preventive Health App/Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MC6_view/Preventive Health App/AppDelegate.swift">
+      </FileRef>
+      <FileRef
+         location = "group:MC6_view/Preventive Health App/ViewController.swift">
+      </FileRef>
+      <Group
+         location = "group:MC6_view/Preventive Health App"
+         name = "Main.storyboard">
+         <FileRef
+            location = "group:MC6_view/Preventive Health App/Base.lproj/Main.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MC6_view/Preventive Health App/Assets.xcassets">
+      </FileRef>
+      <Group
+         location = "group:MC6_view/Preventive Health App"
+         name = "LaunchScreen.storyboard">
+         <FileRef
+            location = "group:MC6_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MC6_view/Preventive Health App/Info.plist">
+      </FileRef>
+      <Group
+         location = "group:MC6_view/Preventive Health AppTests"
+         name = "Preventive Health AppTests">
+         <FileRef
+            location = "group:MC6_view/Preventive Health AppTests/Preventive_Health_AppTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:MC6_view/Preventive Health AppTests/Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:MC6_view"
+         name = "Products">
+         <FileRef
+            location = "build:MC6_view.app"
+            assignedFileDataType = "com.apple.application-bundle">
+         </FileRef>
+         <FileRef
+            location = "build:MC6_viewTests.xctest"
+            assignedFileDataType = "com.apple.xcode.cfbundle">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "MC4P2_view">
+      <FileRef
+         location = "absolute:/Users/JToyoshima/Desktop/Preventive Health Project/check_up_views/check_up_view/MC4P2_view/MC4P2_view.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:MC4P2_view/Preventive Health App"
+         name = "Preventive Health App">
+         <FileRef
+            location = "group:MC4P2_view/Preventive Health App/AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:MC4P2_view/Preventive Health App/ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:MC4P2_view/Preventive Health App"
+            name = "Main.storyboard">
+            <FileRef
+               location = "group:MC4P2_view/Preventive Health App/Base.lproj/Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:MC4P2_view/Preventive Health App/Assets.xcassets">
+         </FileRef>
+         <Group
+            location = "group:MC4P2_view/Preventive Health App"
+            name = "LaunchScreen.storyboard">
+            <FileRef
+               location = "group:MC4P2_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:MC4P2_view/Preventive Health App/Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MC4P2_view/Preventive Health App/AppDelegate.swift">
+      </FileRef>
+      <FileRef
+         location = "group:MC4P2_view/Preventive Health App/ViewController.swift">
+      </FileRef>
+      <Group
+         location = "group:MC4P2_view/Preventive Health App"
+         name = "Main.storyboard">
+         <FileRef
+            location = "group:MC4P2_view/Preventive Health App/Base.lproj/Main.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MC4P2_view/Preventive Health App/Assets.xcassets">
+      </FileRef>
+      <Group
+         location = "group:MC4P2_view/Preventive Health App"
+         name = "LaunchScreen.storyboard">
+         <FileRef
+            location = "group:MC4P2_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MC4P2_view/Preventive Health App/Info.plist">
+      </FileRef>
+      <Group
+         location = "group:MC4P2_view/Preventive Health AppTests"
+         name = "Preventive Health AppTests">
+         <FileRef
+            location = "group:MC4P2_view/Preventive Health AppTests/Preventive_Health_AppTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:MC4P2_view/Preventive Health AppTests/Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:MC4P2_view"
+         name = "Products">
+         <FileRef
+            location = "build:MC4P2_view.app"
+            assignedFileDataType = "com.apple.application-bundle">
+         </FileRef>
+         <FileRef
+            location = "build:MC4P2_viewTests.xctest"
+            assignedFileDataType = "com.apple.xcode.cfbundle">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "MC4P_view">
+      <FileRef
+         location = "absolute:/Users/JToyoshima/Desktop/Preventive Health Project/check_up_views/check_up_view/MC4P_view/MC4P_view.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:MC4P_view/Preventive Health App"
+         name = "Preventive Health App">
+         <FileRef
+            location = "group:MC4P_view/Preventive Health App/AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:MC4P_view/Preventive Health App/ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:MC4P_view/Preventive Health App"
+            name = "Main.storyboard">
+            <FileRef
+               location = "group:MC4P_view/Preventive Health App/Base.lproj/Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:MC4P_view/Preventive Health App/Assets.xcassets">
+         </FileRef>
+         <Group
+            location = "group:MC4P_view/Preventive Health App"
+            name = "LaunchScreen.storyboard">
+            <FileRef
+               location = "group:MC4P_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:MC4P_view/Preventive Health App/Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MC4P_view/Preventive Health App/AppDelegate.swift">
+      </FileRef>
+      <FileRef
+         location = "group:MC4P_view/Preventive Health App/ViewController.swift">
+      </FileRef>
+      <Group
+         location = "group:MC4P_view/Preventive Health App"
+         name = "Main.storyboard">
+         <FileRef
+            location = "group:MC4P_view/Preventive Health App/Base.lproj/Main.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MC4P_view/Preventive Health App/Assets.xcassets">
+      </FileRef>
+      <Group
+         location = "group:MC4P_view/Preventive Health App"
+         name = "LaunchScreen.storyboard">
+         <FileRef
+            location = "group:MC4P_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MC4P_view/Preventive Health App/Info.plist">
+      </FileRef>
+      <Group
+         location = "group:MC4P_view/Preventive Health AppTests"
+         name = "Preventive Health AppTests">
+         <FileRef
+            location = "group:MC4P_view/Preventive Health AppTests/Preventive_Health_AppTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:MC4P_view/Preventive Health AppTests/Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:MC4P_view"
+         name = "Products">
+         <FileRef
+            location = "build:MC4P_view.app"
+            assignedFileDataType = "com.apple.application-bundle">
+         </FileRef>
+         <FileRef
+            location = "build:MC4P_viewTests.xctest"
+            assignedFileDataType = "com.apple.xcode.cfbundle">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "MC4_view">
+      <FileRef
+         location = "absolute:/Users/JToyoshima/Desktop/Preventive Health Project/check_up_views/check_up_view/MC4_view/MC4_view.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:MC4_view/Preventive Health App"
+         name = "Preventive Health App">
+         <FileRef
+            location = "group:MC4_view/Preventive Health App/AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:MC4_view/Preventive Health App/ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:MC4_view/Preventive Health App"
+            name = "Main.storyboard">
+            <FileRef
+               location = "group:MC4_view/Preventive Health App/Base.lproj/Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:MC4_view/Preventive Health App/Assets.xcassets">
+         </FileRef>
+         <Group
+            location = "group:MC4_view/Preventive Health App"
+            name = "LaunchScreen.storyboard">
+            <FileRef
+               location = "group:MC4_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:MC4_view/Preventive Health App/Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MC4_view/Preventive Health App/AppDelegate.swift">
+      </FileRef>
+      <FileRef
+         location = "group:MC4_view/Preventive Health App/ViewController.swift">
+      </FileRef>
+      <Group
+         location = "group:MC4_view/Preventive Health App"
+         name = "Main.storyboard">
+         <FileRef
+            location = "group:MC4_view/Preventive Health App/Base.lproj/Main.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MC4_view/Preventive Health App/Assets.xcassets">
+      </FileRef>
+      <Group
+         location = "group:MC4_view/Preventive Health App"
+         name = "LaunchScreen.storyboard">
+         <FileRef
+            location = "group:MC4_view/Preventive Health App/Base.lproj/LaunchScreen.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MC4_view/Preventive Health App/Info.plist">
+      </FileRef>
+      <Group
+         location = "group:MC4_view/Preventive Health AppTests"
+         name = "Preventive Health AppTests">
+         <FileRef
+            location = "group:MC4_view/Preventive Health AppTests/Preventive_Health_AppTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:MC4_view/Preventive Health AppTests/Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:MC4_view"
+         name = "Products">
+         <FileRef
+            location = "build:MC4_view.app"
+            assignedFileDataType = "com.apple.application-bundle">
+         </FileRef>
+         <FileRef
+            location = "build:MC4_viewTests.xctest"
+            assignedFileDataType = "com.apple.xcode.cfbundle">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
